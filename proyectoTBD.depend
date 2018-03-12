@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1520894067 source:c:\users\jose\desktop\proyectotbd\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	"BaseDeDatos.h"
+	"archivo.h"
+	"tabla.h"
+	"Gestor.h"
+
+1520830466 c:\users\jose\desktop\proyectotbd\include\basededatos.h
+	"archivo.h"
+	<stdio.h>
+	<string.h>
+	"BitArray.h"
+	<iostream>
+
+1520841715 c:\users\jose\desktop\proyectotbd\include\archivo.h
+	<stdio.h>
+	<iostream>
+
+1520826839 c:\users\jose\desktop\proyectotbd\include\bitarray.h
+	<cassert>
+	<math.h>
+
+1520889102 c:\users\jose\desktop\proyectotbd\include\tabla.h
+	<string.h>
+	<iostream>
+	"archivo.h"
+
+1520898085 c:\users\jose\desktop\proyectotbd\include\gestor.h
+	<iostream>
+	"archivo.h"
+	<stdio.h>
+	<string.h>
+	"tabla.h"
+	"BaseDeDatos.h"
+	<vector>
+	"list"
+
+1520841756 source:c:\users\jose\desktop\proyectotbd\src\archivo.cpp
+	"archivo.h"
+
+1520829903 source:c:\users\jose\desktop\proyectotbd\src\basededatos.cpp
+	"BaseDeDatos.h"
+
+1520826933 source:c:\users\jose\desktop\proyectotbd\src\bitarray.cpp
+	"BitArray.h"
+
+1520841833 source:c:\users\jose\desktop\proyectotbd\src\bloque.cpp
+	"bloque.h"
+
+1520819636 c:\users\jose\desktop\proyectotbd\include\bloque.h
+	"archivo.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1520898015 source:c:\users\jose\desktop\proyectotbd\src\gestor.cpp
+	"Gestor.h"
+
+1520842755 source:c:\users\jose\desktop\proyectotbd\src\masterblock.cpp
+	"MasterBlock.h"
+
+1520842745 c:\users\jose\desktop\proyectotbd\include\masterblock.h
+	"archivo.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1520889931 source:c:\users\jose\desktop\proyectotbd\src\tabla.cpp
+	"tabla.h"
+

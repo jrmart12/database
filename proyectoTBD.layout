@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include\BaseDeDatos.h" open="1" top="0" tabpos="9">
+		<Cursor position="315" topLine="3" />
+	</File>
+	<File name="include\BitArray.h" open="1" top="0" tabpos="7">
+		<Cursor position="81" topLine="0" />
+	</File>
+	<File name="include\MasterBlock.h" open="1" top="0" tabpos="4">
+		<Cursor position="57" topLine="0" />
+	</File>
+	<File name="include\archivo.h" open="1" top="0" tabpos="3">
+		<Cursor position="324" topLine="0" />
+	</File>
+	<File name="include\bloque.h" open="1" top="0" tabpos="1">
+		<Cursor position="138" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="11">
+		<Cursor position="87" topLine="0" />
+	</File>
+	<File name="src\BaseDeDatos.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="62" topLine="0" />
+	</File>
+	<File name="src\BitArray.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="179" topLine="0" />
+	</File>
+	<File name="src\MasterBlock.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="229" topLine="23" />
+	</File>
+	<File name="src\archivo.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="259" topLine="26" />
+	</File>
+	<File name="src\bloque.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="494" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
